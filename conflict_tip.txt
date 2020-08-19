@@ -1,0 +1,4 @@
+-
+충돌해결
+
+conflict3를 새로 생성 후 conflict3에 master를 가져와서 충돌해결 후 conflict3를 다시 master에 최종 병합한다
